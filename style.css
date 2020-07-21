@@ -1,0 +1,93 @@
+.jumbotron {
+    background-color: rgb(43, 86, 151);
+    background-size: cover;
+    height: 250px;
+    background-position: center;
+    text-align: center;
+
+}
+
+.jumbotron .display-4{
+    font-family: monospace;
+    color: white;
+    margin-top: 220px;
+    letter-spacing: 5px;
+}
+.jumbotron .display-5{
+    font-family: monospace;
+    color: white;
+    margin-top: 220px;
+    letter-spacing: 5px;
+}
+
+.jumbotron hr {
+    border-color: lavender;
+    border-width: 2px;
+    /* width: 70px; */
+}
+
+.jumbotron p {
+    color: white;
+    font-family: fantasy;
+}
+.jumbotron .btn {
+    background-color:cornflowerblue ;
+    border: none;
+    border-radius: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.jumbotron .last{
+    margin-top: -50px;
+}
+
+.jumbotron h4{
+    margin-top: 50px;
+}
+
+.jumbotron li{
+    text-align: center;
+}
+
+.carousel-item {
+    height: 920px;
+}
+
+.carousel-item .display-4 {
+    margin-top: -540px;
+}
+
+.carousel-item  hr {
+    border-color: lavender;
+    border-width: 2px;
+    /* width: 70px; */
+}
+
+.carousel-item  p {
+    color: white;
+    font-family: fantasy;
+}
+.carousel-item  .btn {
+    background-color:cornflowerblue ;
+    border: none;
+    border-radius: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.page2 .card-body{
+    text-align: center;
+}
+.page2 .card-text {
+    text-align: justify;
+}
+
+.page2 .btn {
+    background-color:cornflowerblue ;
+    border: none;
+    border-radius: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-top: -20px;
+}
